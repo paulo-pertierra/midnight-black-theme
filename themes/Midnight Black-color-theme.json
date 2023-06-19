@@ -667,6 +667,7 @@
     }
   ],
   "colors": {
+		"terminal.background": "#000000",
     "focusBorder": "#FFFFFF00",
     "editorCursor.foreground": "#FFCC00",
     "editorRuler.foreground": "#3B3F51",
