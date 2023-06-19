@@ -4,7 +4,6 @@
   "tokenColors": [
     {
       "settings": {
-        "background": "#000000",
         "foreground": "#ffffff"
       }
     },
@@ -204,7 +203,6 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "fontStyle": "normal",
         "foreground": "#C3E88D"
       }
     },
@@ -508,7 +506,6 @@
         "text.html.markdown meta.dummy.line-break"
       ],
       "settings": {
-        "foreground": ""
       }
     },
     {
@@ -574,8 +571,6 @@
         "markup.strike"
       ],
       "settings": {
-        "fontStyle": "strike",
-        "foreground": ""
       }
     },
     {
@@ -594,7 +589,6 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": ""
       }
     },
     {
@@ -796,11 +790,11 @@
     "editorSuggestWidget.border": "#FFFFFF10",
     "editorWidget.background": "#0F111A",
     "editorWidget.resizeBorder": "#80CBC4",
-    "editorWidget.border": "",
     "editorMarkerNavigation.background": "#8F93A205",
     "panel.border": "#0F111A60",
     "panel.background": "#0F111A",
-    "panel.dropBackground": "#8F93A2",
+    "panel.dropBorder": "#8F93A2",
+		"activityBar.dropBorder": "#8F93A2",
     "panelTitle.inactiveForeground": "#8F93A2",
     "panelTitle.activeForeground": "#FFFFFF",
     "panelTitle.activeBorder": "#80CBC4",

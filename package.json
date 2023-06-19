@@ -1,6 +1,7 @@
 {
   "name": "midnight-black-theme",
   "displayName": "Midnight Black Theme",
+  "publisher": "Pow-Carriera",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -9,6 +10,15 @@
   "categories": [
     "Themes"
   ],
+  "author": {
+    "name": "Paulo Pertierra",
+    "email": "paulopertierra@gmail.com",
+    "url": "https://www.linkedin.com/in/paulo-pertierra-a5b4591b0/"
+  },
+  "repository": {
+    "url": "https://github.com/pow-carriera/midnight-black-theme.git",
+    "type": "git"
+  },
   "contributes": {
     "themes": [
       {
